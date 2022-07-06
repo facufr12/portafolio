@@ -157,12 +157,14 @@ a {
 
 .about-row {
 	display: flex;
+    padding: 30px;     
 }
 
 .about-row-experience,
 .about-row-me {
 	width: 50%;
-	padding-left: 50px;
+	padding: o;
+	
 }
 
 /* Contact */
